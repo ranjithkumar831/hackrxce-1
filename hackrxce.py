@@ -49,7 +49,8 @@ def hero():
         t = threading.Thread(target=animate)
         t.start()
 
-        time.sleep(05)
+        #long process here
+        time.sleep(20)
         done = True
     def clear():
         # for windows
