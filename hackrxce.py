@@ -211,7 +211,7 @@ else:
             print(f"If you think it is an {red}error {yellow}contact {green}me ")
             print(f"{neon}On Telegram {red}LOVE IS LIFE 💘")
             print("wait.... starting....")
-            time.sleep(05)
+            time.sleep(20)
             period=rava
             hero()
             #print("Today Server is off RXCE try tomorrow ")
@@ -232,7 +232,7 @@ else:
             print("Please play on the given time, and ")
             print("If you think it is an error contact")
             print("wait.... starting....")
-            time.sleep(05)
+            time.sleep(20)
             period=rava
             hero()
             #period("Sorry too many people(>20) using hack in same time ")
@@ -246,7 +246,7 @@ else:
             print("Please play on the given time, and ")
             print("If you think it is an error contact")
             print("wait.... starting....")
-            time.sleep(05)
+            time.sleep(20)
             period=400
             hero()
             sys.exit(" \n \n \n Contact on Telegram LOVE IS LIFE 💘")
