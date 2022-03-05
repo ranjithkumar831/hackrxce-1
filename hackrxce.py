@@ -32,7 +32,7 @@ def hero():
             sys.stdout.write('\rDone!     ')
         t = threading.Thread(target=animate)
         t.start()
-        #long process here
+
         time.sleep(20)
         done = True
     def chalo1():
@@ -49,7 +49,7 @@ def hero():
         t = threading.Thread(target=animate)
         t.start()
 
-        #long process here
+
         time.sleep(20)
         done = True
     def clear():
@@ -72,7 +72,7 @@ def hero():
     while(y):
         clear()
         system(banner)
-        print(f"{red}Contact me on telegram LOVE IS LIFE 💘")
+        print(f"{yellow}Tools Create by:[LOVE IS LIFE] 💘")
         print(f"{yellow}Enter ",newperiod," Parity Price :")
         current=input()
         current=int(current)
@@ -134,7 +134,7 @@ if(expirydate>today):
     else:
         banner='figlet Amusebox'
         system(banner)
-        #print(f"{red}"Hi!! Thanks for buying the hack")
+        #print(f"{yellow}"Hi!! Thanks for buying the hack")
         print("Hi! thanks for trying our DEMO")
         print("----------Your play time-----------")
         #print("31st Aug 2021, 11:00 AM- 11:30 AM")
